@@ -1,4 +1,4 @@
-# My Library
+# GameBaseLib
 
 ## 概要
 GameBaseLibは、OpenGLをもとにした、グリッドベースのゲームを作成するためのライブラリです。
@@ -28,6 +28,6 @@ freetypeおよびGLEWのライセンスについては、LICENSEに記載して�
 - FreeType: https://freetype.org/license.html
 
 ## 免責事項
-このソフトウェアは「現状のまま」で、明示であるか暗黙であるかを問わず、何らの保証もなく提供されます。
+このソフトウェアを使用したことによるいかなる損害についても、制作者は一切の責任を負いません。
 
 Copyright © 2024 mirrormouse. All rights reserved.
