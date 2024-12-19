@@ -3,6 +3,9 @@
 ## 概要
 GameBaseLibは、OpenGLをもとにした、グリッドベースのゲームを作成するためのライブラリです。
 
+## 利用サンプル
+https://github.com/mirrormouse/ShepePuzzle
+
 ## 依存ライブラリ
 このライブラリは以下のライブラリを使用しています：
 
